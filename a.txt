@@ -1,1 +1,2 @@
 1. install git on ubuntu
+integrate git with jenkins
